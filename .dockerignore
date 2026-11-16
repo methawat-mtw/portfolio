@@ -1,0 +1,5 @@
+.git
+asset
+.env*
+node_modules
+.omc
